@@ -348,9 +348,9 @@ Working on this production system provided hands-on experience with:
 **Adel Shurrab**
 Laravel Backend Developer
 
-- GitHub: [ADD_GITHUB_PROFILE_URL_HERE]
-- LinkedIn: [ADD_LINKEDIN_PROFILE_URL_HERE]
-- Email: [ADD_CONTACT_EMAIL_HERE]
+- GitHub: https://github.com/Adel-Shurrab
+- LinkedIn: https://www.linkedin.com/in/adel-shurrab
+- Email: adelshurrab2003@gmail.com
 
 ---
 
